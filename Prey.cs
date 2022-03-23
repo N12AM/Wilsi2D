@@ -10,6 +10,7 @@ namespace Wilsi2D
       {
             public int X{get; set;}
             public int Y{get; set;}
+            public int moveDirection1D { get; set; }
 
             /// <summary>
             /// 
@@ -18,7 +19,6 @@ namespace Wilsi2D
             {
                   X = 0;
                   Y = 0;
-
             }
 
       }

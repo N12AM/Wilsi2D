@@ -11,7 +11,9 @@ namespace Wilsi2D
       {
             public int X { get; set; }
             public int Y { get; set; }
-            
+            public int moveDirection1D { get; set; }
+
+
             public Predator()
             {
                   X = 0;

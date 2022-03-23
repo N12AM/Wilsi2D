@@ -8,14 +8,14 @@ namespace Wilsi2D
 {
       public class TraitSetup
       {
-            public int preyHeight { get; set; }
-            public int preyWidth { get; set; }
+            public int agentHeight { get; set; }
+            public int agentWidth { get; set; }
             public int updatesPerSecond { get; set; }
 
             public TraitSetup()
             {
-                  preyHeight = 10;
-                  preyWidth = 10;
+                  agentHeight = 10;
+                  agentWidth = 10;
 
                   // how many times in 1000 miliseconds (1 second) should the update happen
                   updatesPerSecond = 30;
