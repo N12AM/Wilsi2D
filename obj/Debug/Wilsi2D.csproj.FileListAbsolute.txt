@@ -1,0 +1,10 @@
+D:\visual 2019\Wilsi2D\bin\Debug\Wilsi2D.exe.config
+D:\visual 2019\Wilsi2D\bin\Debug\Wilsi2D.exe
+D:\visual 2019\Wilsi2D\bin\Debug\Wilsi2D.pdb
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.csproj.AssemblyReference.cache
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.Form1.resources
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.Properties.Resources.resources
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.csproj.GenerateResource.cache
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.csproj.CoreCompileInputs.cache
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.exe
+D:\visual 2019\Wilsi2D\obj\Debug\Wilsi2D.pdb
