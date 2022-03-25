@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Food.cs" />
+    <Compile Include="LotkaVolteraModel.cs" />
     <Compile Include="Predator.cs" />
     <Compile Include="TraitSetup.cs" />
     <Compile Include="Prey.cs" />

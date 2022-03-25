@@ -15,7 +15,7 @@ namespace Wilsi2D
             public TraitSetup()
             {
                   agentHeight = 10;
-                  agentWidth = 10;
+                  agentWidth = 6;
 
                   // how many times in 1000 miliseconds (1 second) should the update happen
                   updatesPerSecond = 30;
